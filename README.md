@@ -1,6 +1,6 @@
 # vue-music-player
 
-> A Vue.js project
+> 开发中
 
 ## Build Setup
 
